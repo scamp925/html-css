@@ -1,3 +1,19 @@
 body {
   background-color: orange;
+  margin: 0;
+}
+
+#Shenker {
+  border: 5px dashed black;
+  font-family: 'Special Elite', cursive;
+}
+
+#CSEC {
+  border: 20px dotted #cc00cc;
+  font-family: 'Beau Rivage', cursive;
+}
+
+h3 {
+  color: rgb(13, 126, 179);
+  font-size: 30px;
 }
